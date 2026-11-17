@@ -1,0 +1,75 @@
+{
+    "students": {
+        "1": {
+            "name": "Rahul Sharma",
+            "age": 21,
+            "email": "rahul.sharma@example.com",
+            "gender": "Male",
+            "course": "Computer Science",
+            "year": 3,
+            "gpa": 8.7,
+            "subjects": [
+                "Python",
+                "Database Management",
+                "Operating Systems"
+            ],
+            "address": {
+                "city": "Delhi",
+                "state": "Delhi",
+                "country": "India",
+                "pincode": "110001"
+            }
+        },
+        "2": {
+            "name": "Priya Verma",
+            "age": 22,
+            "email": "priya.verma@example.com",
+            "gender": "Female",
+            "course": "Information Technology",
+            "year": 4,
+            "gpa": 9.2,
+            "subjects": [
+                "Java",
+                "Data Structures",
+                "Computer Networks"
+            ],
+            "address": {
+                "city": "Mumbai",
+                "state": "Maharashtra",
+                "country": "India",
+                "pincode": "400001"
+            }
+        },
+        "3": {
+            "name": "Amit Kumar",
+            "age": 20,
+            "email": "amit.kumar@example.com",
+            "gender": "Male",
+            "course": "Electronics",
+            "year": 2,
+            "gpa": 7.8,
+            "subjects": [
+                "Java",
+                "Operating Systems",
+                "Digital Electronics"
+            ],
+            "address": {
+                "city": "Bangalore",
+                "state": "Karnataka",
+                "country": "India",
+                "pincode": "560001"
+            }
+        },
+        "4": {
+            "name": "Ankit",
+            "age": 21,
+            "email": "ankit@example.com",
+            "gender": "male",
+            "course": null,
+            "year": null,
+            "gpa": null,
+            "subjects": null,
+            "address": null
+        }
+    }
+}
